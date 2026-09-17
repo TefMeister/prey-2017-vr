@@ -1,5 +1,11 @@
 # prey-2017-vr
 
+> ### ⏸️ Paused (2026-09-17)
+>
+> **A VR mod for Prey (2017) is on its way from fholger**, the maker of the open-source Crysis VR and Far Cry VR mods. It is still in development: follow it on [his Patreon post](https://www.patreon.com/fholger/posts/prey-2017-vr-165375021).
+>
+> Work on this project is paused. If it resumes, it will build on top of fholger's Prey VR mod (so fholger's Prey VR mod would be required), rather than compete with it.
+
 **Prey** (2017), a flat-to-VR modding project. Started 2026-09-15.
 
 | Folder | What lives here |
