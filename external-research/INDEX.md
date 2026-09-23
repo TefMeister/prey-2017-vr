@@ -1,6 +1,8 @@
 # Research index
 
-**Last `/gr` pass: 2026-09-17 (estate sweep) — CHECK-IN.** First pass: folder bootstrapped; one topic on CryEngine prior art (fholger's Prey VR work, Chairloader's console and CVar dump) aimed at both open board rows; pointer sent to `engine-research/inbox/`.
+**Last `/gr` pass: 2026-09-23 (estate sweep) — CHECK-IN.** Checked phunkaeg's *VR Modding Playbook*: it holds the author's own PreyVR (pre-headset) and a code read of prey-vr we already track; chapter 17 has a worked CryEngine second pass (camera passed by value, so no borrow-and-restore). Board has no open rows; nothing filed.
+
+_Previous: **Last `/gr` pass: 2026-09-17 (estate sweep) — CHECK-IN.** First pass: folder bootstrapped; one topic on CryEngine prior art (fholger's Prey VR work, Chairloader's console and CVar dump) aimed at both open board rows; pointer sent to `engine-research/inbox/`._
 
 Every research topic gathered for this project, newest first. Each row links to a self-contained
 write-up in `topics/`. Status tags:
