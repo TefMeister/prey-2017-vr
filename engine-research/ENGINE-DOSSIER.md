@@ -76,3 +76,10 @@
 ## 12. Open risks toward the North Star
 - Nothing blocking seen yet. An unprotected CryEngine build with a console and stereo-related variables still in it is a promising start.
 - ⚠️ Stereo variable *names* in a build prove nothing about working code behind them — the Hard Reset project found exactly that trap `[hypothesis]`.
+
+## Inbox folds, 2026-09-29
+
+**Chairloader and prior art (`/gr` 2026-09-17).** Chairloader has a working console (F1 → Chairloader → Show Console) and a "Dump CVars to file" button, a live list to check against the dossier's static strings `[reported]`; fholger reports a Prey VR mod in development, and phunkaeg's PreyVR (OpenXR) appeared on 2026-09-10 `[reported]`. The project is paused for them (WATCHING.md). Topic: `external-research/topics/2026-09-17-prior-art-fholger-prey-vr-and-chairloader-console.md`.
+
+**Recon logs were silently ignored (`/gs` 2026-09-23): fixed 2026-09-29.** `.gitignore` now keeps `dev-archive/recon/**/*.log`.
+
