@@ -1,6 +1,8 @@
 # Research index
 
-**Last `/gr` pass: 2026-09-29 (estate sweep) — CHECK-IN.** Nothing new. fholger's Prey VR is still in development on Patreon with no release date (last public update about late July); phunkaeg's PreyVR was filed separately today; board OPEN is none.
+**Last `/gr` pass: 2026-10-04 (estate sweep, second pass) — CHECK-IN.** PAUSED (another VR mod). Watch check: phunkaeg's PreyVR has public preview builds since 2026-09-10 (latest a wrist-HUD test, 2026-09-29); pointer sent to `engine-research/inbox/` to correct the WATCHING row.
+
+_Previous: **Last `/gr` pass: 2026-09-29 (estate sweep) — CHECK-IN.** Nothing new. fholger's Prey VR is still in development on Patreon with no release date (last public update about late July); phunkaeg's PreyVR was filed separately today; board OPEN is none._
 
 _Previous: **Last `/gr` pass: 2026-09-23 (estate sweep) — CHECK-IN.** Checked phunkaeg's *VR Modding Playbook*: it holds the author's own PreyVR (pre-headset) and a code read of prey-vr we already track; chapter 17 has a worked CryEngine second pass (camera passed by value, so no borrow-and-restore). Board has no open rows; nothing filed._
 
