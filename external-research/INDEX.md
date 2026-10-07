@@ -1,6 +1,8 @@
 # Research index
 
-**Last `/gr` pass: 2026-10-04 (estate sweep, second pass) — CHECK-IN.** PAUSED (another VR mod). Watch check: phunkaeg's PreyVR has public preview builds since 2026-09-10 (latest a wrist-HUD test, 2026-09-29); pointer sent to `engine-research/inbox/` to correct the WATCHING row.
+**Last `/gr` pass: 2026-10-07 (estate sweep) — CHECK-IN.** PAUSED (another VR mod). Watch check: phunkaeg's PreyVR active (pre-release 2026-09-29, pushed today), a jordi branch inside it, jordi's own repo now 404; drop sent to the dossier inbox.
+
+_Previous: **Last `/gr` pass: 2026-10-04 (estate sweep, second pass) — CHECK-IN.** PAUSED (another VR mod). Watch check: phunkaeg's PreyVR has public preview builds since 2026-09-10 (latest a wrist-HUD test, 2026-09-29); pointer sent to `engine-research/inbox/` to correct the WATCHING row._
 
 _Previous: **Last `/gr` pass: 2026-09-29 (estate sweep) — CHECK-IN.** Nothing new. fholger's Prey VR is still in development on Patreon with no release date (last public update about late July); phunkaeg's PreyVR was filed separately today; board OPEN is none._
 
