@@ -1,6 +1,8 @@
 # Research index
 
-**Last `/gr` pass: 2026-10-11 (estate sweep) — CHECK-IN.** Inbox empty. Re-checked the other VR mod on WATCHING.md: no change since the row was last updated. Nothing new.
+**Last `/gr` pass: 2026-10-23 (estate sweep) — CHECK-IN.** Inbox empty. Re-checked the other VR mod on WATCHING.md: phunkaeg's PreyVR pushed today but has no new commits on its main branch since 2026-10-16 and no new build (newest still 2026-09-29); no public news of fholger's Prey VR found. Nothing new.
+
+_Previous: **Last `/gr` pass: 2026-10-11 (estate sweep) — CHECK-IN.** Inbox empty. Re-checked the other VR mod on WATCHING.md: no change since the row was last updated. Nothing new._
 
 _Previous: **Last `/gr` pass: 2026-10-07 (estate sweep) — CHECK-IN.** PAUSED (another VR mod). Watch check: phunkaeg's PreyVR active (pre-release 2026-09-29, pushed today), a jordi branch inside it, jordi's own repo now 404; drop sent to the dossier inbox._
 
