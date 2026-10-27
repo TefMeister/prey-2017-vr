@@ -1,6 +1,8 @@
 # Research index
 
-**Last `/gr` pass: 2026-10-23 (estate sweep) — CHECK-IN.** Inbox empty. Re-checked the other VR mod on WATCHING.md: phunkaeg's PreyVR pushed today but has no new commits on its main branch since 2026-10-16 and no new build (newest still 2026-09-29); no public news of fholger's Prey VR found. Nothing new.
+**Last `/gr` pass: 2026-10-27 (estate sweep) — CHECK-IN.** Inbox empty. phunkaeg's PreyVR: main and tags unchanged (v0.5.1-preview), but its `collab/integration` branch added touch panels, controller hacking, zero-g flight and surface grip on 10-25/26; pointer sent to the dossier inbox.
+
+_Previous: Last `/gr` pass: 2026-10-23 (estate sweep) — CHECK-IN. Inbox empty. Re-checked the other VR mod on WATCHING.md: phunkaeg's PreyVR pushed today but has no new commits on its main branch since 2026-10-16 and no new build (newest still 2026-09-29); no public news of fholger's Prey VR found. Nothing new._
 
 _Previous: **Last `/gr` pass: 2026-10-11 (estate sweep) — CHECK-IN.** Inbox empty. Re-checked the other VR mod on WATCHING.md: no change since the row was last updated. Nothing new._
 
