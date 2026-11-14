@@ -1,6 +1,6 @@
 # Research index
 
-**Last `/gr` pass: 2026-11-01 (estate sweep) — CHECK-IN.** Watch list: phunkaeg's PreyVR pushed 2026-10-26 (integration branch, already noted); nothing new.
+**Last `/gr` pass: 2026-11-14 — CHECK-IN.** Watch list: phunkaeg's PreyVR last push 2026-10-26, no new release; no public news of fholger's Prey VR; nothing new.
 
 _Previous: **Last `/gr` pass: 2026-10-27 (estate sweep) — CHECK-IN.** Inbox empty. phunkaeg's PreyVR: main and tags unchanged (v0.5.1-preview), but its `collab/integration` branch added touch panels, controller hacking, zero-g flight and surface grip on 10-25/26; pointer sent to the dossier inbox._
 
